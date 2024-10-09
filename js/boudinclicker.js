@@ -49,6 +49,9 @@ function addScore() {
 score1 = initializeScore("score1");  
 score2 = initializeScore("score2");
 score3 = initializeScore("score3");
+score4 = initializeScore("score4");  
+score5 = initializeScore("score5");
+score6 = initializeScore("score6");
 score = initializeScore("score");
 increment = initializeScore("increment");
 increment2 = initializeScore("increment2");
@@ -66,6 +69,9 @@ document.getElementById("reset").addEventListener("click", () => {
     score1 = 0;
     score2 = 0;
     score3 = 0;
+    score4 = 0;
+    score5 = 0;
+    score6 = 0;
     updateDisplay();
     updateLocalStorage();
 });
