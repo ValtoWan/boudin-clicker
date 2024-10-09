@@ -1,0 +1,230 @@
+body { 
+    background-color: rgb(90, 35, 35);
+}
+#banniere {
+    display: flex;
+    background-color: rgba(63, 42, 63, 0.911);
+    border-bottom : 20px;
+    border-style : solid;
+    color : rgb(25, 11, 39);
+
+}
+
+#titre {
+    flex : 50;
+    margin-left: 850px;
+    color : rgb(181, 161, 199);
+}
+
+#reset {
+    flex :1;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+#tboudin {
+    background-color:rgba(63, 42, 63, 0.911) ;
+    width: 452px;
+    
+}
+
+
+#conteneur {
+    display: flex;
+    align-items:flex;
+    margin: 20px;
+    
+}
+
+#boudin {
+    flex: 1;
+    margin-top: 100px;
+    margin-right: 50px;
+    
+    
+
+}
+
+#p1 {
+    color : rgb(236, 218, 252);
+    text-align: center;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-style : solid;
+    color : rgb(25, 11, 39);
+
+}
+
+#boudinimage {
+    cursor: pointer;
+    height: 300px;
+    width: 450px;
+    text-align: center;
+    background-image: url(planche.jpeg); 
+    background-size: 100%;
+    
+}
+
+#divscore {
+    background-color:rgba(63, 42, 63, 0.863);
+    border-style : solid;
+    color : rgb(25, 11, 39);
+    margin-top: 10px;
+    width: 98.5%;
+}
+
+#score {
+    color : rgb(211, 60, 241);
+    margin-left : 10px;
+}
+
+#upgrade {
+    flex :3;
+   
+    margin-top: 100px;
+    border-style :dashed;
+    border-color : rgb(25, 11, 39);
+    width: 2000px;
+}
+
+#p2 {
+    color : rgb(181, 161, 199);
+    margin-top: 10px;
+   margin-left: 20px;
+
+}
+
+
+#upg {
+    display: flex;
+    align-items:flex;
+}
+
+#boudiniere {
+
+    height: 50px;
+    width: 100px;
+    border-style : solid;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+
+#boucherie {
+
+    height: 50px;
+    width: 100px;
+    border-style : solid;;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+#usine {
+    height: 50px;
+    width: 100px;
+    border-style : solid;;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+#up1 {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+#up2 {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+#up3 {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+
+#auto1 {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+
+#boudinieresexy {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+
+#grandmaitreboudinier {
+    flex :1;
+    color : rgb(211, 60, 241);
+    text-align: center;
+}
+
+#nomb1 {
+    font-size: 25px;
+}
+
+#nomb2 {
+    font-size: 25px;
+}
+
+#nomb3 {
+    font-size: 25px;
+}
+
+#nombboudinieresexy {
+    font-size: 25px;
+}
+
+#nombgrandmaitreboudinier {
+    font-size: 25px;
+}
+
+#nombmachine {
+    font-size: 25px;
+}
+
+#click {
+    margin-left : 10px;
+}
+
+#auto {
+    margin-left : 10px;
+    font-size: 35px;
+}
+
+#machine {
+    height: 50px;
+    width: 100px;
+    border-style : solid;;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+#grandmaitreboudinierimage {
+    height: 50px;
+    width: 100px;
+    border-style : solid;;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+#boudinieresexyimage {
+    height: 50px;
+    width: 100px;
+    border-style : solid;;
+    border-color : rgb(25, 11, 39);
+    cursor: pointer;
+}
+
+#autou {
+    display: flex;
+    align-items:flex;
+}
+
+#auto1 {
+    flex:1;
+    text-align: center;
+}

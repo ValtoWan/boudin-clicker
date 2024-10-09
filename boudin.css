@@ -1,0 +1,66 @@
+
+#entete {
+    color : blue;
+    font-size: 80px;
+    font-style :italic;
+    background-color: rgb(27, 87, 27);
+
+}
+
+
+.titre {
+    color : blueviolet;
+    margin-left: 20px;
+}
+
+#milieu {
+    background-color: rgb(85, 16, 85);
+    border-width: 10px;
+    border-color: aquamarine;
+    border-style: double;
+
+}
+
+.phrase {
+    color : red;
+    margin-left: 40px;
+}
+
+#frere {
+    margin-left: 120px;
+
+}
+
+#boudin {
+    width: 500px;
+    height: 150px;
+    top: 5000px;
+}
+
+#enbas {
+    background-color: rgb(66, 60, 60);
+
+}
+
+
+.ok {
+    color : greenyellow;
+    font-size : 40px;
+    
+}
+
+#tout {
+    color: white;
+    font-size: 8px;
+
+}
+
+body { 
+    background-color: rgb(255, 0, 128);   
+}
+
+
+
+
+
+    
